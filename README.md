@@ -3,7 +3,7 @@ An atmospheric, engaging JavaScript game for two players. Fully realised, featur
 
 *** IMPORTANT: PLEASE ALLOW AUDIO AND VIDEO IN YOUR BROWSER AND REFRESH TO LOAD WITH SOUND! ***
 
-Aliens are attacking Earth!!! (of course). 
+Aliens are attacking Earth!!! Naturally. 
 Alien Hunter is a two-player, matching-card game with audio and SFX. Take turns trying to blast aliens in the UFOs and take down that scum!
 
 The game can be started immediately on load. The first player just clicks two UFO images and if they match, a point is scored.
