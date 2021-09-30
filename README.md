@@ -1,3 +1,6 @@
+![alien_hunter](https://user-images.githubusercontent.com/68791163/135515811-8c673659-0529-4b5f-a98b-e782de07c244.PNG)
+
+
 # Alien-Hunter
 An atmospheric, engaging JavaScript game for two players. Fully realised, featuring music, SFX and statistical tracking and web caching.
 
